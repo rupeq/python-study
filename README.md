@@ -9,7 +9,7 @@
 - patterns
 - virtualenv
 - file handling
-- databas: SQLite
+- database: SQLite
 - web: socket, select, server
 - asinс: yield, yield from, await, async
 - tkinter
